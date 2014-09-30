@@ -20,7 +20,7 @@
         "ext-fileinfo": "*"
     },
     "require-dev": {
-        "laravel/framework": "4.*",
+        "laravel/framework": "5.*",
         "phpspec/phpspec": "2.0.*@dev"
     },
     "autoload": {
